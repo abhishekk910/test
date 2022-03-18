@@ -1,2 +1,7 @@
 This is first line
 This is second line
+
+
+This is from master branch 
+
+This is from feature branch 
